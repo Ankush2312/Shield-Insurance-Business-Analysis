@@ -2,10 +2,6 @@
 
 > A comprehensive business analysis project completed as part of the **AtliQ Technologies Data Analytics Virtual Internship**. This project focuses on transforming business data into actionable insights using **Power BI**, **Power Query**, and **DAX**.
 
-<p align="center">
-  <img src="Images/dashboard-overview.png" width="850">
-</p>
-
 ---
 
 # 📖 Table of Contents
@@ -18,7 +14,6 @@
 - [Key Business Insights](#-key-business-insights)
 - [Business Recommendations](#-business-recommendations)
 - [Skills Demonstrated](#-skills-demonstrated)
-- [Project Structure](#-project-structure)
 - [Future Improvements](#-future-improvements)
 - [Connect With Me](#-connect-with-me)
 
@@ -201,8 +196,6 @@ This project reflects my ability to combine technical skills with business think
 # 🤝 Connect With Me
 
 💼 **LinkedIn:** https://www.linkedin.com/in/ankush-patil-56b285374
-
-💻 **GitHub:** https://github.com/your-github
 
 📧 **Email:** kush231200@gmail.com
 
