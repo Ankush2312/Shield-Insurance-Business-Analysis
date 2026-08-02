@@ -181,59 +181,6 @@ Leverage Online App and Website to generate qualified customer leads while utili
 
 ---
 
-# 📁 Project Structure
-
-```
-Shield-Insurance-Business-Analysis
-│
-├── Dashboard
-│   ├── Shield Insurance Dashboard.pbix
-│   └── Dashboard.pdf
-│
-├── Presentation
-│   └── Shield Insurance Business Presentation.pdf
-│
-├── Dataset
-│   └── insurance_data.xlsx
-│
-├── Images
-│   ├── dashboard-overview.png
-│   ├── age-analysis.png
-│   ├── city-analysis.png
-│   ├── sales-mode-analysis.png
-│   └── recommendations.png
-│
-└── README.md
-```
-
----
-
-# 📷 Project Preview
-
-## Dashboard Overview
-
-<img src="Images/dashboard-overview.png">
-
----
-
-## Age Group Analysis
-
-<img src="Images/age-analysis.png">
-
----
-
-## Sales Mode Analysis
-
-<img src="Images/sales-mode-analysis.png">
-
----
-
-## Business Recommendations
-
-<img src="Images/recommendations.png">
-
----
-
 # 📈 Future Improvements
 
 - Predict customer churn using Machine Learning.
@@ -253,11 +200,11 @@ This project reflects my ability to combine technical skills with business think
 
 # 🤝 Connect With Me
 
-💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin
+💼 **LinkedIn:** https://www.linkedin.com/in/ankush-patil-56b285374
 
 💻 **GitHub:** https://github.com/your-github
 
-📧 **Email:** your.email@example.com
+📧 **Email:** kush231200@gmail.com
 
 ---
 
